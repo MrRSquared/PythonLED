@@ -10,7 +10,7 @@ def counter():
         if score == "f":
             negative += 1
             print(negative)
-        if score == "j":
+        if score == "k":
             positive +=1
             print(positive)
         if score == "q":
